@@ -1,6 +1,6 @@
 ---
 title: Welcome to Hugo!
-type: post
+type: default
 tags: []
 image: ''
 date: Invalid date
