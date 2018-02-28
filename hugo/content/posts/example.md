@@ -1,5 +1,7 @@
 ---
-title:  "Welcome to Hugo!"
+title: Welcome to Hugo!
+draft: true
+
 ---
 You’ll find this post in your `content/posts` directory.
 
