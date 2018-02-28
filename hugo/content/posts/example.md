@@ -1,6 +1,10 @@
 ---
 title: Welcome to Hugo!
-draft: true
+type: post
+tags: []
+image: ''
+date: Invalid date
+author: ''
 
 ---
 You’ll find this post in your `content/posts` directory.
