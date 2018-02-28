@@ -3,7 +3,7 @@ title: Welcome to Hugo!
 type: default
 tags: []
 image: ''
-date: Invalid date
+date: ''
 author: ''
 
 ---
